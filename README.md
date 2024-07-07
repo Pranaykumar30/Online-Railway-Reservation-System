@@ -1,5 +1,4 @@
 # Online-Railway-Reservation-System
-# Online Railway Reservation System
 
 Welcome to the Online Railway Reservation System! This project aims to create a seamless, efficient, and user-friendly platform for booking railway tickets online. This README file will guide you through the project, including setup, usage, and contribution guidelines.
 
@@ -17,7 +16,7 @@ Welcome to the Online Railway Reservation System! This project aims to create a 
 
 ## Introduction
 
-The Online Railway Reservation System is a web-based application designed to facilitate easy and efficient booking of railway tickets. This system provides a hassle-free experience for users, allowing them to search for trains, check availability, and make reservations from the comfort of their homes.
+The Online Railway Reservation System is a web-based application designed to facilitate easy and efficient booking of railway tickets. This system provides a hassle-free experience for users, allowing them to search for trains, check availability, and make reservations from their homes.
 
 ## Features
 
@@ -35,18 +34,18 @@ The Online Railway Reservation System is a web-based application designed to fac
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap
 - **Backend:** PHP
 - **Database:** MySQL
-- **Tools:** XAMPP, Visual Studio Code, Git
+- **Tools:** XAMPP, Visual Studio Code
 
 ## Getting Started
 
-To get a local copy of the project up and running, follow these simple steps.
+You can follow these simple steps to get a local copy of the project up and running.
 
 ### Prerequisites
 
 Ensure you have the following installed:
 
 - XAMPP
-- Git
+- Visual Studio Code
 
 ### Installation
 
@@ -88,11 +87,11 @@ We welcome contributions from the community. If you have suggestions, bug report
 
 ### License
 
-This project is licensed under the . See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007. See the [LICENSE](LICENSE) file for more details.
 
 ### Contact
 
-For any questions or feedback, please contact the project maintainer:
+For any questions or feedback, please contact:
 
 - Name: Yellanuru Madasi Pranay Kuamr
 - Email: pranaykumaryellanurumadasi@gmail.com
